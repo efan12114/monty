@@ -1,6 +1,6 @@
 #include "monty.h"
 
-global_t global = {NULL, NULL, NULL};
+global_t global = {NULL, NULL, NULL, 0};
 
 /**
  * main - monty code interpreter
